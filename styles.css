@@ -59,6 +59,7 @@ a {
 #right-header {
   padding: 30px;
   text-align: left;
+  font-size: 1.2em;
 }
 
 #form-container {
@@ -117,6 +118,7 @@ button {
   border-radius: 10px;
   text-wrap: nowrap;
 }
+
 .login {
   color: blue;
 }
